@@ -14,13 +14,13 @@
                 <div class="wrap">
                     <div class="grid vertical-align">
                         <div class="column">
-                            <img :src="item.image" style="max-width: 500px; margin: 0 auto;" />
+                            <img :src="item.image" />
                         </div>
                         <div class="column">
                             <h3><strong v-html="item.name" /></h3>
                             <p class="text-intro"><code v-html="item.date" /> for <span v-html="item.recipient" />.</p>
                             <p v-html="item.description" />
-                            <a v-if="item.link" :href="item.link" target="_blank">Link &raquo;</a>
+                            <a v-if="item.link" :href="item.link" target="_blank">See Listing &raquo;</a>
                         </div>
                     </div>
                 </div>
@@ -117,5 +117,7 @@ export default {
 <style media="screen">
     img {
         box-shadow: 0 1px 3px 0 #dadada;
+        max-width: 375px;
+        margin: 0 auto;
     }
 </style>
