@@ -8,10 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
-      - name: Deploy 
-        run: |
-          rm -rf dist
-	  npm run build
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@master
+      - run: npm install
+      - run: npm run build
