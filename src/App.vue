@@ -105,6 +105,15 @@ export default {
                     date: 'Dec 2019',
                     rating: null,
                     recipient: 'Mark'
+                },
+                {
+                    name: 'Hine Rare',
+                    description: 'A classic expression of the house of Hine; pale copper colour with a tawny hue; spicy/orange-tinged aromas with delicate floral notes and hints of fruit; silky, smooth, with notes of spice, pear and white pepper, an emphasis on elegance and finesse; long complex finish.',
+                    image: 'https://www.lcbo.com/content/dam/lcbo/products/356857.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg',
+                    link: 'https://www.lcbo.com/lcbo/product/hine-rare-vsop/356857#.X1HF0y0ZNQI',
+                    date: 'Aug 2020',
+                    rating: null,
+                    recipient: 'Carter'
                 }
             ]
         }
