@@ -114,6 +114,15 @@ export default {
                     date: 'Aug 2020',
                     rating: null,
                     recipient: 'Carter'
+                },
+                {
+                    name: 'Laneway No 33 Gin',
+                    description: 'A beautifully complex gin crafted from 33+ botanicals - the perfect marriage of exotic spice and Canadian wilderness. Clean, fresh juniper on the nose leads to a sensational blend of flavours on the palate - layered citrus, lush berry, herbaceous, spicy and woodsy notes in a harmony that is more than the sum of its parts.',
+                    image: 'https://www.lcbo.com/content/dam/lcbo/products/019443.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg',
+                    link: 'https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/gin-15014/laneway-no-33-gin-19443#.X-n5nC0ZOgw',
+                    date: 'Dec 2020',
+                    rating: null,
+                    recipient: 'Mark'
                 }
             ]
         }
