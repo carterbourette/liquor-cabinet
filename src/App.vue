@@ -123,6 +123,15 @@ export default {
                     date: 'Dec 2020',
                     rating: null,
                     recipient: 'Mark'
+                },
+                {
+                    name: 'Remy Martin 1738 Accord Royal Cognac',
+                    description: 'This luxurious elixir offers a generous nose of toasted coconut, almonds, vanilla and bananas flambé; on the palate, it is warm with flavours of candied pineapple, vanilla, toasted oak and roasted almonds.',
+                    image: 'https://www.lcbo.com/content/dam/lcbo/products/386177.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg',
+                    link: 'https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/cognac-armagnac-15012/remy-martin-1738-accord-royal-cognac-386177#.YT0-rS-95OR',
+                    date: 'Aug 2021',
+                    rating: null,
+                    recipient: 'Carter'
                 }
             ]
         }
