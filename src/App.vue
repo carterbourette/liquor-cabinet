@@ -132,6 +132,15 @@ export default {
                     date: 'Aug 2021',
                     rating: null,
                     recipient: 'Carter'
+                },
+                {
+                    name: 'Aqvalvce Gin',
+                    description: 'The attractive bottle encloses this delicately crafted Italian gin. Expect aromas and flavours of juniper, citrus, wet earth, balsamic and spring blossom. It's medium-bodied and floral with a long-lasting finish. Serve with smoked salmon on a crostini topped with sour cream, or create a Tom Collins cocktail.',
+                    image: 'https://www.lcbo.com/content/dam/lcbo/products/018677.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg',
+                    link: 'https://www.lcbo.com/webapp/wcs/stores/servlet/en/lcbo/gin-15014/aqvalvce-gin-18677#.YfdL5S_71OQ',
+                    date: 'Dec 2021',
+                    rating: null,
+                    recipient: 'Mark'
                 }
             ]
         }
