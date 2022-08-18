@@ -141,6 +141,15 @@ export default {
                     date: 'Dec 2021',
                     rating: null,
                     recipient: 'Mark'
+                },
+                {
+                    name: 'Macallan 12 Year Old Double Cask',
+                    description: 'Matured in a combination of American oak and European sherry oak for a balanced profile of dried fruit and light oak spice. The palate is creamy with honeyed flavours carrying marmalade and baking spices followed by a lengthy, fruity finish, that is dominated by Sultana.',
+                    image: 'https://aem.lcbo.com/content/dam/lcbo/products/4/7/9/9/479980.jpg.thumb.1280.1280.jpg',
+                    link: 'https://www.lcbo.com/en/macallan-12-year-old-double-cask-479980',
+                    date: 'Aug 2022',
+                    rating: null,
+                    recipient: 'Carter'
                 }
             ]
         }
