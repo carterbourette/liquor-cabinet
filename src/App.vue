@@ -150,6 +150,15 @@ export default {
                     date: 'Aug 2022',
                     rating: null,
                     recipient: 'Carter'
+                },
+                {
+                    name: 'El Dorado 21 Year Old Rum',
+                    description: 'Lush tropical fruit and spice nose with hints of honey and dark sugar. Round, mellow, full bodied palate with rich flavours of fruit and spice.',
+                    image: 'https://nlliquor.com/wp-content/uploads/2021/07/11890_m_v2.jpg',
+                    link: 'https://nlliquor.com/product/el-dorado-21-year-old-rum/',
+                    date: 'Aug 2023',
+                    rating: null,
+                    recipient: 'Carter'
                 }
             ]
         }
