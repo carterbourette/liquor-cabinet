@@ -161,7 +161,7 @@ export default {
                     recipient: 'Carter'
                 },
                 {
-                    name: 'D'Ussé VSOP Cognac',
+                    name: 'D\'Ussé VSOP Cognac',
                     description: 'Lush tropical fruit and spice nose with hints of honey and dark sugar. Round, mellow, full bodied palate with rich flavours of fruit and spice.',
                     image: 'https://aem.lcbo.com/content/dam/lcbo/products/4/1/0/8/410803.jpg.thumb.1280.1280.jpg',
                     link: 'https://www.lcbo.com/en/d-uss-c-vsop-cognac-410803',
