@@ -168,6 +168,15 @@ export default {
                     date: 'Dec 2023',
                     rating: null,
                     recipient: 'Mark'
+                },
+                {
+                    name: "Grand Marnier Cuvée du Centenaire 100th",
+                    description: "This exquisite liqueur is the newest addition to the Vintages Essentials Collection.\n\nGrand Marnier Cuvée du Centenaire was first crafted in 1927 to celebrate the 100 year anniversary of Maison Marnier-Lapostolle. It elevates the already decadent flavours of Grand Marnier to epic heights. Made with a blend of XO Cognacs, it exudes aromas of spice and smoke, married with elegant candied orange.",
+                    image: "https://aem.lcbo.com/content/dam/lcbo/products/1/0/8/7/108704.jpg.thumb.1280.1280.jpg",
+                    link: "https://www.lcbo.com/en/grand-marnier-cuv-ce-du-centenaire-100th-108704",
+                    date: "Dec 2025",
+                    rating: null,
+                    recipient: "Mark"
                 }
             ]
         }
