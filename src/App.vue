@@ -170,6 +170,15 @@ export default {
                     recipient: 'Mark'
                 },
                 {
+                    name: "Writers' Tears Irish Whiskey",
+                    description: "This Vintage release selects only the finest distillates of Single Pot Still & Single Malt Irish Whiskey, matured in exceptional American Oak casks. Non-chill filtered, this whiskey is a full-bodied, high strength, flavoursome whiskey, with just 8,700 bottles created. Bottled at an impressive 54.8% ABV. A bold and complex dram. The nose has notes of ginger and pepper spice alongside rich butterscotch. The taste – Hints of toasted oak, biscuit and dark chocolate mingle with sweet vanilla. An exceptional finish, bursting with character and flavour.",
+                    image: "https://nlliquor.com/wp-content/uploads/21274-2.jpg",
+                    link: "https://nlliquor.com/product/writers-tears-cask-strength-irish-whiskey/?inventory=16144",
+                    date: "Aug 2025",
+                    rating: null,
+                    recipient: "Carter"
+                },
+                {
                     name: "Grand Marnier Cuvée du Centenaire 100th",
                     description: "This exquisite liqueur is the newest addition to the Vintages Essentials Collection.\n\nGrand Marnier Cuvée du Centenaire was first crafted in 1927 to celebrate the 100 year anniversary of Maison Marnier-Lapostolle. It elevates the already decadent flavours of Grand Marnier to epic heights. Made with a blend of XO Cognacs, it exudes aromas of spice and smoke, married with elegant candied orange.",
                     image: "https://aem.lcbo.com/content/dam/lcbo/products/1/0/8/7/108704.jpg.thumb.1280.1280.jpg",
